@@ -19,7 +19,9 @@
   <hr>
 </div>
 
-![Open Browser Walkthrough](assets/openbrowser.clip.gif)
+<p align="center">
+  <img src="assets/openbrowser.clip.gif" alt="Open Browser Walkthrough">
+</p>
 
 <div align="center">
   <p>
