@@ -1,4 +1,3 @@
-
 <div align="center">
   <a name="readme-top"></a>
   <img src="https://raw.githubusercontent.com/beto-group/beto.assets/main/BETO.logo.animated.svg?raw=true" alt="LOGO" width="160">
@@ -8,20 +7,18 @@
 
 <div align="center">
   <!-- TOP PURPLE LINKS -->
-  <a href="https://beto.group"><img src="https://img.shields.io/badge/WEBSITE-7A46F1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgY2xhc3M9Imx1Y2lkZSBsdWNpZGUtZXh0ZXJuYWwtbGluayI+PHBhdGggZD0iTTE4IDEzdjZhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWOGEyIDIgMCAwIDEgMi0yaDYiLz48cG9seWxpbmUgcG9pbnRzPSIxNSAzIDIxIDMgMjEgOSIvPjxsaW5lIHgxPSIxMCIgeDI9IjIxIiB5MT0iMTQiIHkyPSIzIi8+PC9zdmc+" alt="WEBSITE"></a>
+  <a href="https://beto.group"><img src="https://img.shields.io/badge/WEBSITE-7A46F1?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTE4IDEzdjZhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWOGEyIDIgMCAwIDEgMi0yaDYiLz48cG9seWxpbmUgcG9pbnRzPSIxNSAzIDIxIDMgMjEgOSIvPjxsaW5lIHgxPSIxMCIgeDI9IjIxIiB5MT0iMTQiIHkyPSIzIi8%2BPC9zdmc+" alt="WEBSITE"></a>
   <a href="https://discord.com/invite/6rDp4q4Y2B"><img src="https://img.shields.io/badge/DISCORD-7A46F1?style=for-the-badge&logo=discord&logoColor=white" alt="JOIN OUR DISCORD"></a>
   <a href="https://github.com/sponsors/beto-group"><img src="https://img.shields.io/badge/Sponsor-7A46F1?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="SUPPORT US ON GITHUB"></a>
   <br/>
   <!-- BOTTOM GOLD TAXONOMY -->
-  <img src="https://img.shields.io/badge/TARGET-DATACORE-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOSIgcnk9IjMiLz48cGF0aCBkPSJNIDMgNXYxNGE5IDMgMCAwIDAgMTggMHYtMTQiLz48cGF0aCBkPSJNIDMgMTJhOSAzIDAgMCAwIDE4IDAiLz48L3N2Zz4=" alt="TARGET">
-  <img src="https://img.shields.io/badge/SECURITY-NODE__FS-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMnMgOCA0LjUgOCAxMmMwIDUuNS00LjUgMTAtOCAxMEzNCAxNy41IDQgMTRDNCA2LjUgMTIgMTEyIDJ6Ii8+PC9zdmc+" alt="SECURITY">
-  <img src="https://img.shields.io/badge/RUNTIME-PUREJS-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQ5IDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMlY3LjVMMTQuNSAyeiIvPjxwb2x5bGluZSBwb2ludHM9IjE0IDIgMTQgOCAyMCA4Ii8+PGxpbmUgeDE9IjE2IiB4Mj0iOCIgeTE9IjEzIiB5Mj0iMTMiLz48bGluZSB4MT0iMTYiIHgyPSI4IiB5MT0iMTciIHkyPSIxNyIvPjxsaW5lIHgxPSIxMCIgeDI9IjgiIHkxPSI5IiB5Mj0iOSIvPjwvc3ZnPg==" alt="RUNTIME">
+  <img src="https://img.shields.io/badge/TARGET-DATACORE-000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOSIgcnk9IjMiLz48cGF0aCBkPSJNIDMgNXYxNGE5IDMgMCAwIDAgMTggMHYtMTQiLz48cGF0aCBkPSJNIDMgMTJhOSAzIDAgMCAwIDE4IDAiLz48L3N2Zz4%3D" alt="TARGET">
+  <img src="https://img.shields.io/badge/SECURITY-NODE_FS-000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTEiIHg9IjMiIHk9IjExIiByeD0iMiIgcnk9IjIiLz48cGF0aCBkPSJNNyAxMVY3YTUgNSAwIDAgMSAxMCAwdjQiLz48L3N2Zz4%3D" alt="SECURITY">
+  <img src="https://img.shields.io/badge/RUNTIME-PUREJS-000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNGRkUxNjUiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIyIi8%2BPHBhdGggZD0iTTEyIDJhMTAgMTAgMCAwIDEgMCAyMCIvPjxwYXRoIGQ9Ik0xMiAyYTEwIDEwIDAgMCAwIDAgMjAiLz48L3N2Zz4%3D" alt="RUNTIME">
   <hr>
 </div>
 
-<p align="center">
-  <img src="assets/openbrowser.clip.gif" alt="Open Browser Walkthrough">
-</p>
+<img src="assets/videos/preview.gif" alt="Open Browser Walkthrough" width="100%">
 
 <div align="center">
   <p>
@@ -34,25 +31,36 @@
 
 ---
 
-## ✨ Features
+## Quick Start
 
-### 🌐 External URL Actions
-*   💻 **System Default Links**: Opens links via standard browser redirection.
-*   🐚 **Electron Force External**: Bypasses Obsidian routing directly via `electron.shell.openExternal`.
-*   🏄 **Surfing View Redirects**: Integrates with Surfing view types for seamless tab management.
-*   🖼️ **Iframe Embedding**: Embeds and previews pages instantly inside a sandbox container.
-
-### 📂 Internal Vault link validation
-*   🎯 **Target Splits**: Resolves local paths to open files in current view, new tabs, or split columns.
-*   🎲 **Random Selector**: Picks a random markdown file in the vault for path validation.
-
-### 🛡️ Runtime & Reliability
-*   🐕 **Watchdog Reload**: Safe-daemon hot reload loops run continuously, ensuring instant updates.
-*   🎨 **Adaptive Themes**: Inherits the host workspace appearance via Obsidian standard CSS variables.
+To start using Open Browser today:
+1. **Download the Repository**: Clone or download this repository directly into any folder inside your Obsidian vault.
+2. **Install Datacore**: Ensure you have the **Datacore** plugin installed and enabled in Obsidian.
+3. **Open the Entry Note**: Open the **`OPEN BROWSER.md`** note inside Obsidian to launch the component!
 
 ---
 
-## 📦 Directory Index & Components
+## Features
+
+### External URL Actions
+*   **System Default Links**: Opens links via standard browser redirection.
+*   **Electron Force External**: Bypasses Obsidian routing directly via `electron.shell.openExternal`.
+*   **Surfing View Redirects**: Integrates with Surfing view types for seamless tab management.
+*   **Iframe Embedding**: Embeds and previews pages instantly inside a sandbox container.
+
+### Internal Vault Link Validation
+*   **Target Splits**: Resolves local paths to open files in current view, new tabs, or split columns.
+*   **Random Selector**: Picks a random markdown file in the vault for path validation.
+
+### Runtime & Reliability
+*   **Watchdog Reload**: Safe-daemon hot reload loops run continuously, ensuring instant updates.
+*   **Adaptive Themes**: Inherits the host workspace appearance via Obsidian standard CSS variables.
+
+---
+
+## Directory Index & Components
+
+The package exposes the following files:
 
 | File | Description |
 | :--- | :--- |
@@ -65,13 +73,13 @@
 
 ---
 
-## 🚀 Quick Start & Installation
+## Previews
 
-1. **Get the Code**:
-   * **Option A**: Clone directly into Obsidian vault directory:
-     ```shell
-     git clone https://github.com/beto-group/OpenBrowser
-     ```
-   * **Option B**: Extract repository ZIP into your Obsidian vault.
-2. **Prerequisites**: Ensure the **Datacore** community plugin is active.
-3. **Launch**: Open **`OPEN BROWSER.md`** inside Obsidian.
+| Static Mockup | Interactive Dashboard |
+| :---: | :---: |
+| ![Preview 1](assets/image/preview_1.webp) | ![Walkthrough GIF](assets/videos/preview.gif) |
+
+---
+
+## Contributors
+- beto.group
